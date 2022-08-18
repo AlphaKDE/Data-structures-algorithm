@@ -80,7 +80,8 @@ class minHeap:
         return str(self.heap)
 
 
-# test cases
+# test code
+
 my_minHeap = minHeap([95, 3, 21])
 my_minHeap.push(10)
 my_minHeap.push(2)
